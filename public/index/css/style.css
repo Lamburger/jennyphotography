@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6
 }
 .main-header
 {
-	background: url(https://lh3.googleusercontent.com/RydqkB4YvxMZH-nT-Yq-dn1chmPa0rIwGecXerUvIC7ynirkOzY1fnKbSAT2amStNMVtykvOxJCDthFDLd3LlAUb3lhY9tyabAi21-JVVDIyxiOnVTBT3vgErQKBDC_-ld_nEJr6dCBUNZOEZzcFyCGaHdeuZyEpQHZQ6h3Sp1alZsXKo3UWAlrv9VYT-iygts282YJdOmsCY5eVJYPxLaQjdktb37gr-GR7ECvbmiRC7HdatU0aVQ7jNJgP4WI-sQuH8lgAYCHo4CHPQ4h605CyiC4Zjc03WFPeGv7mQcoKf-Ibls3DYMqqx4pT3umz-5Jq06uXqeZDnDivokY9_z705qlnQLTjvtJYAfEp797OSET8X2tZifd_EW8uTOdN5WFnlfPIYyccIR3XqL5n4zR02rFTQ3IMEGebtlfLxdajlFsCKARGuxG5Faz_sn5eBNxv3zI4ygIcC6IupundYdukqKCAHhC5BKRBg8B9pkExJdCbL5QpvsWeGUaa_6KwkovC9li2QcC_3hB6fHFfCnH0n51dFnEFAgqBTNosfx1MlrnCTE42g70d4AL4nw4Qey5avplivuL-HM_De_qwfPt4QErixGVXLzpC6rJZv1S8lX7dL2EUEGU=w1375-h786-no) no-repeat;
+	background: url(https://lh3.googleusercontent.com/Cm3WJC2z3_lVTks4a8GVyBYrYG2UppEuTuGOZ9aITkhtqWd2aqg-QSjSB5xucaxCW2IEtcmh6IlrkQwnFdf9ivnsda2tyHQ4eqyApImQlCaXnQ1Nyik6KIrBNxqMQwv5szh0lj7Y8yBzNuGd4hE9F1aRK9ziFdnGB_S0v9KBxhR-hceRdlve2kP2dIk4AskLh89GmTFxqJskmunT0Gsgl25dKZ-WviHL---iL_Qkb-HAXL6onO8ZPzwWkExpgzKuxMXyxTqLbwG9bssbyWgqow5heOm3w5sMVOc56ogjqlF3o9-8T2GuH1MtJ7P4XSFSr79SJn4JHRVdYJluUjV7YqopxFYAGOtXfgvkxIbt6sI6Su4cUFILZ76coAoSHSEWlLIz_DMrbXLMQ77coNrXQ0A6qYdZxdomrsJx6rPFA66zK5C8IWMm1BSordhItee5jFEj25liLG4bvl4po1owtQqTnAn8e6LQ3JwW3lVCuzUsYszn4T2xu9yIBL1XnUbDoYl_si8GFzOD4b9gxmmqRt9UXs2TuL-USkphpfDD8KRVcIZODxLvBQnXRYi2N6_SOGANEZUg-8UcGoV-TI4fS8sQon3vukv4SmjfRM8fXE6p4IKc_DrcTsk=w1120-h786-no) no-repeat;
 	background-size: cover;
 	min-height: 610px;
 }
@@ -114,7 +114,7 @@ h1, h2, h3, h4, h5, h6
 }
 .title
 {
-	font-size: 150px;
+	font-size: 200px;
 	font-weight: 550;
 	color: #fff;
 	line-height: 88px;
