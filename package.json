@@ -1,0 +1,20 @@
+{
+  "name": "jenny",
+  "version": "1.0.0",
+  "description": "Jenny's Photography",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lam Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "mongo": "^0.1.0",
+    "mongoose": "^4.11.5",
+    "path": "^0.12.7"
+  }
+}
